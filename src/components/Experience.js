@@ -12,7 +12,6 @@ const experienceData = [
       "Led CI/CD pipeline automation resulting in reduced deployment time by 40% and eliminating manual errors through Jenkins and Docker.",
       "Utilised Kubernetes for container orchestration, improving application availability and resource efficiency.",
       "Developed and implemented robust testing strategies using JUnit, PyTest, and Selenium, ensuring high reliability and reducing post-deployment defects by 30%."
-
     ]
   },
   {
