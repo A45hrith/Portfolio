@@ -5,7 +5,7 @@ const experienceData = [
   {
     company: "Deltaclass Technology Solutions Limited",
     role: "Software Engineer II",
-    duration: "Oct 2024 - Present",
+    duration: "Jul 2022 - Oct 2024".toString(),
     description: [
       "Developed and optimised backend services using Java and Spring Boot, ensuring high scalability and performance.",
       "Designed and implemented RESTful APIs to streamline system integrations and enhance functionality.",
